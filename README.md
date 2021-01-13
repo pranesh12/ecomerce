@@ -1,2 +1,2 @@
-# bo-ecomerce
+#static template
 # ecomerce
